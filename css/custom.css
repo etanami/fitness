@@ -41,7 +41,8 @@ footer p {
 }
 
 @media (min-width: 992px) {
-  #intro {
+  #intro,
+  #coach {
     padding-right: 15%;
     padding-left: 15%;
   }
